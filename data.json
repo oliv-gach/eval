@@ -1,0 +1,16 @@
+{
+   produits: [
+      {
+         titre: "Cafetière Dolce Gusto Mini Me",
+         prix: 72.9
+      },
+      {
+         titre: "Détecteur de mouvement IP 20 360°",
+         prix: 17.4
+      },
+      {
+         titre: "Enceinte Bluetooth JLab A400",
+         prix: 29.9
+      }
+   ]
+}
