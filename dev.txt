@@ -1,4 +1,8 @@
 oliv-gach : Olivier Gach
 jin591 : Jade Farugia
 Bastizn : Bastien Huou
+<<<<<<< HEAD
 clairelanglais : Claire Langlais
+=======
+rom141 : Romain CROSNIER
+>>>>>>> 4426b81ff2c1bb9e14267e348b37a5e91a034c0e
