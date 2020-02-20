@@ -1,23 +1,16 @@
 oliv-gach : Olivier Gach
 jin591 : Jade Farugia
-<<<<<<< HEAD
 LilianMMI : Lilian Ouvrard
-=======
 Bastizn : Bastien Huou
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 clairelanglais : Claire Langlais
-=======
->>>>>>> 433fffcfb2e1681e782bf5d677f936a28d97a728
 rom141 : Romain CROSNIER
->>>>>>> 4426b81ff2c1bb9e14267e348b37a5e91a034c0e
-=======
 quentinmalavielle : Quentin Malavielle
->>>>>>> 0babec789d69c70b0231ff454c0e7ce77e860f59
-
 Iouize : Louise Delauney
 Davy37 : Davy Miklovicova
 DaaamDaaam : Damien Legros
 Lucie-A : Lucie Alleau
+<<<<<<< HEAD
 clementUTO : Clément Hutteau
+=======
+Sooseki : Manon Bonnet
+>>>>>>> f4100e5490e2752230b68152f7f163fd35b0290a
