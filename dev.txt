@@ -4,5 +4,11 @@ jin591 : Jade Farugia
 LilianMMI : Lilian Ouvrard
 =======
 Bastizn : Bastien Huou
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+clairelanglais : Claire Langlais
+=======
+>>>>>>> 433fffcfb2e1681e782bf5d677f936a28d97a728
 rom141 : Romain CROSNIER
 >>>>>>> 4426b81ff2c1bb9e14267e348b37a5e91a034c0e
